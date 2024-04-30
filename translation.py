@@ -48,9 +48,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/ask_admin001)
-`🌐 Source Code:` [GitHub](https://github.com/kevinnadar22/URL-Shortener-V2/)
+`👨‍💻 Developer:` [Dev](t.me/Shreeshiva323)
+`📢 Support:` [Bs hegde](https://t.me/Shreeshiva323)
+`🌐 Source Code:` [GitHub](https://t.me/Shreeshiva323)
 """
 
 
@@ -72,7 +72,7 @@ CUSTOM_ALIAS_MESSAGE = """For custom alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/example | Example"""
+Ex: https://t.me/Shreeshiva323 | Example"""
 
 
 ADMINS_MESSAGE = """
